@@ -2,4 +2,4 @@
 E-commerce website. First project Server Design and Development class.
 
 # LICENSE
-BSD 3-clause "New" or "Revised License
+BSD 3-clause "New" or "Revised" License
